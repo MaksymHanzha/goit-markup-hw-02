@@ -1,1 +1,25 @@
+body {
+  background-color: white;
+  font-family: Roboto, sans-serif;
+}
 
+.logo {
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  color: #000;
+}
+
+.logo-web {
+  color: #2196f3;
+}
+
+.footer {
+  background-color: #2f303a;
+}
