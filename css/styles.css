@@ -93,6 +93,7 @@ body {
 }
 
 .hero-button {
+  font-family: inherit;
   cursor: pointer;
   font-weight: 700;
   font-size: 16px;
@@ -210,6 +211,7 @@ body {
 /* ------------------------Portfolio-------------------------- */
 
 .filter-button {
+  font-family: inherit;
   cursor: pointer;
   font-weight: 500;
   font-size: 16px;
